@@ -16,7 +16,7 @@ Introduction to Computer Networks
 8. Network Security
 9. Applications
 
-* **Prerequisites: Programming languages (Matlab, C, C++)**
+* **Prerequisites: Programming languages (Matlab, C/C++)**
 
 ## Homeworks & Projects (25%)
 * HW1 (3.75%) : Network links - Handwriting
