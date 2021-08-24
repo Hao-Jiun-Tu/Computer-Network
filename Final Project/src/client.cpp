@@ -22,9 +22,6 @@ using namespace std;
 
 int main(){
 
-    cout << "IP_A = " << IP_Address << endl;
-    cout << "PORT = " << PORT << endl;
-
     char message_send[100], message_recv[100];
     struct sockaddr_in serv_addr;
     int sockfd;
