@@ -4,7 +4,7 @@ Introduction to Computer Networks
 * Cource Number : EECS-3020
 * Course Title : Introduction to Computer Networks
 * Instructor : Prof. Cheng-Shang Chang
-* Year : 2022 Spring
+* Year : 202 Spring
 ## Lecture Topics
 1. Foundation
 2. Getting Connected
