@@ -11,16 +11,17 @@
 #include <netinet/in.h>
 #include <arpa/inet.h>
 
+#ifndef PORT
 #define PORT 1234
+#endif
 
 using namespace std;
 
 int main(){
 
     int sockfd, streamfd;
-    int cli_len, status;
+    int cli_len;
 
-    char *IP_addr; 
     char message_send[100], message_recv[100];
     char fstr[100], data[100][100]; //to store data in query.txt 
     int  data_size; //data size in query.txt
