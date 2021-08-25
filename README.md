@@ -16,10 +16,10 @@ Introduction to Computer Networks
 8. Network Security
 9. Applications
 
-* **Prerequisites: Programming languages (Matlab, C/C++)**
+* **Prerequisites: programming languages (Matlab, C/C++)**
 
 ## Homeworks & Projects (25%)
-* HW1 (3.75%) : Network links - Handwriting
+* HW1 (3.75%) : Network Links - Handwriting
 * HW2 (3.75%) : Cyclic Redundancy Check (CRC) - Matlab
 * HW3 (3.75%) : Spanning Tree Algorithm - Matlab
 * HW4 (3.75%) : Shortest Path Routing - Matlab
