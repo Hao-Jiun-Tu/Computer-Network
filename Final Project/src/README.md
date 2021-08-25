@@ -9,8 +9,8 @@ $ make clean
 ```
 2. Manually
 ```
-$ g++ server -o server
-$ g++ client -o client
+$ g++ server.cpp -o server
+$ g++ client.cpp -o client
 $ ./server
 $ ./client
 ```
