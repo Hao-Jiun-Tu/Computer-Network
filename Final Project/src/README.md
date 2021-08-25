@@ -5,8 +5,6 @@ Socket Programming - basic transmission between client & server
 ```
 $ make server
 $ make client
-$ ./server
-$ ./client
 $ make clean
 ```
 2. Manually
