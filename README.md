@@ -1,4 +1,4 @@
-# EECS-3020 
+# Computer Network
 Introduction to Computer Networks 
 ## Cource Informations
 * Cource Number : EECS-3020
