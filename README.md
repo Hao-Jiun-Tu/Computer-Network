@@ -1,5 +1,4 @@
-# Computer Network
-Introduction to Computer Networks 
+# Introduction to Computer Networks 
 ## Cource Informations
 * Cource Number : EECS-3020
 * Course Title : Introduction to Computer Networks
